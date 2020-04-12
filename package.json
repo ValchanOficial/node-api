@@ -1,0 +1,30 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValchanOficial/node-api.git"
+  },
+  "author": "Valéria Padilha de Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValchanOficial/node-api/issues"
+  },
+  "homepage": "https://github.com/ValchanOficial/node-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "mongoose-paginate": "^5.0.3",
+    "require-dir": "^1.2.0"
+  }
+}
