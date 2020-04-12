@@ -1,14 +1,14 @@
 # Rocketseat - Curso de NodeJS
 
-# Required
+## Required
 - Node + NPM
 - MongoDB
 
-# Start
+## Start
 - npm install
 - npm run dev
 
-# Routes
+## Routes
 - BaseURL: http://localhost:3000/api/
 - GET: /products?page=1
 - GET: /products/id
